@@ -1,0 +1,233 @@
+Constituency NO,Constituency,Category
+1,Sheopur,Gen
+2,Vijaypur,Gen
+3,Sabalgarh,Gen
+4,Joura,Gen
+5,Sumawali,Gen
+6,Morena,Gen
+7,Dimani,Gen
+8,Ambah ,SC
+9,Ater,Gen
+10,Bhind,Gen
+11,Lahar,Gen
+12,Mehgaon,Gen
+13,Gohad ,SC
+14,Gwalior Rural,Gen
+15,Gwalior,Gen
+16,Gwalior East,Gen
+17,Gwalior South,Gen
+18,Bhitarwar,Gen
+19,Dabra ,SC
+20,Sewda,Gen
+21,Bhander ,SC
+22,Datia,Gen
+23,Karera ,SC
+24,Pohari,Gen
+25,Shivpuri,Gen
+26,Pichhore,Gen
+27,Kolaras,Gen
+28,Bamori,Gen
+29,Guna ,SC
+30,Chachoura,Gen
+31,Raghogarh,Gen
+32,Ashok Nagar ,SC
+33,Chanderi,Gen
+34,Mungaoli,Gen
+35,Bina ,SC
+36,Khurai,Gen
+37,Surkhi,Gen
+38,Deori,Gen
+39,Rehli,Gen
+40,Naryoli,Gen
+41,Sagar,Gen
+42,Banda,Gen
+43,Tikamgarh,Gen
+44,Jatara ,SC
+45,Prithvipur,Gen
+46,Niwari,Gen
+47,Khargapur,Gen
+48,Maharajpur,Gen
+49,Chandla ,SC
+50,Rajnagar,Gen
+51,Chhatarpur,Gen
+52,Bijawar,Gen
+53,Malhara,Gen
+54,Pathariya,Gen
+55,Damoh,Gen
+56,Jabera,Gen
+57,Hatta ,SC
+58,Pawai,Gen
+59,Gunnaor ,SC
+60,Panna,Gen
+61,Chitrakoot,Gen
+62,Raigaon ,SC
+63,Satna,Gen
+64,Nagod,Gen
+65,Maihar,Gen
+66,Amarpatan,Gen
+67,Rampur-Baghelan,Gen
+68,Sirmour,Gen
+69,Semariya,Gen
+70,Teonthar,Gen
+71,Mauganj,Gen
+72,Devtalab,Gen
+73,Mangawan ,SC
+74,Rewa,Gen
+75,Gurh,Gen
+76,Churhat,Gen
+77,Sidhi,Gen
+78,Sihawal,Gen
+79,Chitrangi ,ST
+80,Singrauli,Gen
+81,Devsar ,SC
+82,Dhauhani ,ST
+83,Beohari ,ST
+84,Jaisingnagar ,ST
+85,Jaitpur ,ST
+86,Kotma,Gen
+87,Anuppur ,ST
+88,Pushprajgarh ,ST
+89,Bandhavgarh ,ST
+90,Manpur ,ST
+91,Badwara ,ST
+92,Vijayraghavgarh,Gen
+93,Murwara,Gen
+94,Bahoriband,Gen
+95,Patan,Gen
+96,Bargi,Gen
+97,Jabalpur East ,SC
+98,Jabalpur North,Gen
+99,Jabalpur Cantonment,Gen
+100,Jabalpur West,Gen
+101,Panagar,Gen
+102,Sihora ,ST
+103,Shahpura ,ST
+104,Dindori ,ST
+105,Bichhiya ,ST
+106,Niwas ,ST
+107,Mandla ,ST
+108,Baihar ,ST
+109,Lanji,Gen
+110,Paraswada,Gen
+111,Balaghat,Gen
+112,Waraseoni,Gen
+113,Katangi,Gen
+114,Barghat ,ST
+115,Seoni,Gen
+116,Keolari,Gen
+117,Lakhnadon ,ST
+118,Gotegaon ,SC
+119,Narsingpur,Gen
+120,Tendukheda,Gen
+121,Gadarwara,Gen
+122,Junnardeo ,ST
+123,Amarwara ,ST
+124,Chourai,Gen
+125,Saunsar,Gen
+126,Chhindwara,Gen
+127,Parasia ,SC
+128,Pandhurna ,ST
+129,Multai,Gen
+130,Amla,Gen
+131,Betul,Gen
+132,Ghoradongri ,ST
+133,Bhainsdehi ,ST
+134,Timarni ,ST
+135,Harda,Gen
+136,Seoni-Malwa,Gen
+137,Hoshangabad,Gen
+138,Sohagpur,Gen
+139,Pipariya ,SC
+140,Udaipura,Gen
+141,Bhojpur,Gen
+142,Sanchi ,SC
+143,Silwani,Gen
+144,Vidisha,Gen
+145,Basoda,Gen
+146,Kurwai ,SC
+147,Sironj,Gen
+148,Shamshabad,Gen
+149,Berasia ,SC
+150,Bhopal Uttar,Gen
+151,Narela,Gen
+152,Bhopal Dakshin-Paschim,Gen
+153,Bhopal Madhya,Gen
+154,Govindpura,Gen
+155,Huzur,Gen
+156,Budhni,Gen
+157,Ashta ,SC
+158,Ichhawar,Gen
+159,Sehore,Gen
+160,Narsinghgarh,Gen
+161,Biaora,Gen
+162,Rajgarh,Gen
+163,Khilchipur,Gen
+164,Sarangpur ,SC
+165,Susner,Gen
+166,Agar ,SC
+167,Shajapur,Gen
+168,Shujalpur,Gen
+169,Kalapipal,Gen
+170,Sonkatch ,SC
+171,Dewas,Gen
+172,Hatpipliya,Gen
+173,Khategaon,Gen
+174,Bagli ,ST
+175,Mandhata,Gen
+176,Harsud ,ST
+177,Khandwa ,SC
+178,Pandhana ,ST
+179,Nepanagar ,ST
+180,Burhanpur,Gen
+181,Bhikangaon ,ST
+182,Barwah,Gen
+183,Maheshwar ,SC
+184,Kasrawad,Gen
+185,Khargone,Gen
+186,Bhagwanpura ,ST
+187,Sendhawa ,ST
+188,Rajpur ,ST
+189,Pansemal ,ST
+190,Barwani ,ST
+191,Alirajpur ,ST
+192,Jobat ,ST
+193,Jhabua ,ST
+194,Thandla ,ST
+195,Petlawad ,ST
+196,Sardarpur ,ST
+197,Gandhwani ,ST
+198,Kukshi ,ST
+199,Manawar ,ST
+200,Dharampuri ,ST
+201,Dhar,Gen
+202,Badnawar,Gen
+203,Depalpur,Gen
+204,Indore-1,Gen
+205,Indore-2,Gen
+206,Indore-3,Gen
+207,Indore-4,Gen
+208,Indore-5,Gen
+209,Dr. Ambedkar Nagar-Mhow,Gen
+210,Rau,Gen
+211,Sanwer ,SC
+212,Nagda-Khachrod,Gen
+213,Mahidpur,Gen
+214,Tarana ,SC
+215,Ghatiya ,SC
+216,Ujjain North,Gen
+217,Ujjain South,Gen
+218,Badnagar,Gen
+219,Ratlam Rural ,ST
+220,Ratlam City,Gen
+221,Sailana,Gen
+222,Jaora,Gen
+223,Alot ,SC
+224,Mandsour,Gen
+225,Malhargarh ,SC
+226,Suwasra,Gen
+227,Garoth,Gen
+228,Manasa,Gen
+229,Neemuch,Gen
+230,Jawad,Gen
+,,Gen
+,,Gen
