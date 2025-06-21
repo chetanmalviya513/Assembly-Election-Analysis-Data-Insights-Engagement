@@ -1,0 +1,2 @@
+# Assembly-Election-Analysis-Data-Insights-Engagement
+Scraped and analyzed real-time election data to build interactive dashboards showcasing seat trends, vote share distribution, and postal ballot stats. The analysis uncovered insights on voting patterns, winning margins, and candidate forfeitures. Visual storytelling and timely data updates helped the project gain strong engagement on social media.
