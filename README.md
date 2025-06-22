@@ -1,4 +1,5 @@
 🗳️ Madhya Pradesh Assembly Election Result Analysis
+
 I contributed to the Madhya Pradesh Assembly Election Result Analysis project, where I scraped and analyzed election results data for all 230 constituency seats directly from the Election Commission of India’s official website.
 
 🔧 Key Contributions:
